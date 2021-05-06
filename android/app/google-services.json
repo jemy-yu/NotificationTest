@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "84131676831",
+    "firebase_url": "https://urmart-app.firebaseio.com",
+    "project_id": "urmart-app",
+    "storage_bucket": "urmart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84131676831:android:4f78d8fce8a45eff",
+        "android_client_info": {
+          "package_name": "com.nineyi.shop.s001993"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7r2i-PYMPLguMejdMI2W-a6G5b8qqhJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84131676831-6jd0kl3trkdohe6e3siqq89jikseq88u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84131676831-icmntvkugf01v7mgrg3erooib788b9u1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nineyi.shop.s001993",
+                "app_store_id": "1065810713"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
