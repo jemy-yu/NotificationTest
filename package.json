@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@iterable/react-native-sdk": "^1.0.27",
-    "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.1"
   },
